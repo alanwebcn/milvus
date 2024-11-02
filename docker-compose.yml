@@ -145,8 +145,6 @@ services:
     ports:
       - "4443:4443"
 
-
-
 networks:
   default:
     name: milvus_dev
